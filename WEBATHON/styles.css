@@ -1,0 +1,35 @@
+
+@media (min-width: 768px) {
+.gradient-form {
+height: 100vh !important;
+}
+}
+@media (min-width: 769px) {
+.gradient-custom-2 {
+border-top-right-radius: .3rem;
+border-bottom-right-radius: .3rem;
+}
+}
+.loginPic{
+  width : 450px;
+  height : 450px;
+}
+.log{
+  color: #5D9C59
+}
+.bg{
+  width:1550px;
+  height : 1000px;
+  background-color: #EDF1D6;
+}
+.home{
+    background-color: #EDF1D6;
+}
+.weather{
+width:100px;
+height:380px;
+}
+.buy{
+width:100px;
+height:380px;
+}
